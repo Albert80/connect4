@@ -5,7 +5,7 @@
 import { defaultCellColor, playerColor } from "../../utils/constants";
 
 
-function Token(props) {
+export default function Token(props) {
     /**********************************
     // Color for every single player //
     **********************************/
